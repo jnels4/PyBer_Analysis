@@ -47,7 +47,8 @@ The urban city data was the only set that had an outlier, we determined this cit
 
 When we looked at our Fare data and Driver Data, in the form of a box-and-whisker plot,  we did not see any outliers.  
 
-<img width="404" alt="Screen Shot 2022-05-14 at 6 25 52 PM" src="https://user-images.githubusercontent.com/6634774/168449997-922f70db-9f65-467a-a350-b7ccaf605600.png"><img width="407" alt="Screen Shot 2022-05-14 at 6 26 03 PM" src="https://user-images.githubusercontent.com/6634774/168450000-0eb118bb-2529-47d3-b913-45f5affe5054.png">
+<img width="404" alt="Screen Shot 2022-05-14 at 6 25 52 PM" src="https://user-images.githubusercontent.com/6634774/168449997-922f70db-9f65-467a-a350-b7ccaf605600.png"><img width="406" alt="Screen Shot 2022-05-14 at 6 28 23 PM" src="https://user-images.githubusercontent.com/6634774/168450040-be6e3b5a-7e0c-4488-bcf5-e67cb0735694.png">
+
 
 
 
