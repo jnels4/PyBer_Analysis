@@ -45,11 +45,45 @@ We noted in the bubble plot there there may be some data that was well outside o
 
 The urban city data was the only set that had an outlier, we determined this city was "West Angela" but we didn't feel as if this skewed our data. 
 
-When we looked at our Fare data and Driver Data, in the form of a box-and-whisker plot,  we did not see any outliers.  
+When we looked at our Fare data and Driver Data, in the form of a box-and-whisker plot,  we did not see any outliers.  Thus, we knew these data sets were not skewed from an outlier. 
 
 <img width="404" alt="Screen Shot 2022-05-14 at 6 25 52 PM" src="https://user-images.githubusercontent.com/6634774/168449997-922f70db-9f65-467a-a350-b7ccaf605600.png"><img width="406" alt="Screen Shot 2022-05-14 at 6 28 23 PM" src="https://user-images.githubusercontent.com/6634774/168450040-be6e3b5a-7e0c-4488-bcf5-e67cb0735694.png">
 
+## Pie Charts
 
+Our next piece of analysis looked at the percentage of total fares, total drivers, and total rides by city type. It seemed clear to us, after reviewing these charts that the urban city-type was the ruler of this market by far.  Which, common-sensically, also made sense to our analysis team. 
+
+<img width="339" alt="Screen Shot 2022-05-14 at 6 31 11 PM" src="https://user-images.githubusercontent.com/6634774/168450083-cbc96c9b-23a2-4888-a994-8b3940e911e3.png">
+
+<img width="428" alt="Screen Shot 2022-05-14 at 6 31 28 PM" src="https://user-images.githubusercontent.com/6634774/168450086-eb1dfb76-d6e6-4241-a8b3-140152f3473c.png">
+
+<img width="378" alt="Screen Shot 2022-05-14 at 6 31 42 PM" src="https://user-images.githubusercontent.com/6634774/168450092-4432333e-9b46-473d-8e6d-de4c5b984bd3.png">
+
+## Aggregate Data
+
+Next, we wanted a clean chart that showed each city type with the total rides, drivers, fares and the average fare per ride and driver.  This view would give us a clear picture as to how each city type was performing and with the data grouped, we could clearly see which city type was the most profitable. 
+
+<img width="554" alt="Screen Shot 2022-05-14 at 6 33 25 PM" src="https://user-images.githubusercontent.com/6634774/168450122-a80b53a4-cacb-4a6e-b055-0f1f9ff7da50.png">
+
+Based on this data, we can clearly see that Urban cities are the most profitable for pyBer while Rural would be the most profitable for a Driver; however, a driver will get far less rides in a rural setting when compared with suburban or urban.  The total number of rides is 10:1 Urban:rural and 5:1 Suburban:rural, it seemed clear to our team that a driver would have a greater chance to be profitable in an urban setting rather than a rural setting, this also held true for pyBer as a whole, as the total fares from an urban setting was 9:1 compared with rural, and 2:1 when compared with suburban. 
+
+## 1st Quarter 2019
+
+Our client wanted to look at the data from the first 1st quarter of 2019 (Jan - Apr), and wanted to see this data broken out on a line chart to indicate the change over time during this quarter. 
+
+<img width="783" alt="Screen Shot 2022-05-14 at 6 38 31 PM" src="https://user-images.githubusercontent.com/6634774/168450234-6f9f66e5-e67a-4783-9cc6-92f4a72dd829.png">
+
+Upon reviewing our chart, we determined that (once again), the urban ride-share setting was the most lucrative.  Additionally, we determined that there were peaks in rides during the end of february and begging of march in the urban cities. Infact, all 3 settings showed a peak in rides during the last week of Feb. With the urban cities showing a fairly steady revenue through mid-march.
+
+## Suggestions moving forward
+1. Based on this data, if pyBer is looking to get increase it's reach/profile, our team would highly suggest to focus on urban areas.  It is clear that the profitability is at minimum 2x greater than the next city type (suburban).
+2. Resource allocation: It seems clear that allocating drivers towards big cities would be the most profitable; however, it may be lucrative for drivers to have bonuses/incentives to take rides in suburbs/rural areas as these are the areas that are the most profitable for a driver on a per-ride basis. 
+3. Resource allocation part 2: Increasing the number of drivers from the end of february in all settings makes sense, then towards the beginning of march, shifting those resources towards the urban settings to offset the decrease in ride requests for suburbs/rural areas. This shift can mostly likely remain without consquence through the end of april.
+
+## Further Analysis Needed
+1. Analyzing the trends on the full year of 2019, will give us a better view of where/when to shift drivers from urban/suburban/rural areas. 
+2. Analyzing the average ride costs on a yearly basis, would allow us to provide drivers with a better view of how they could increase their profits throughout the year. 
+3. Analyzing the total drivers in an area during a given time period vs. how many rides are requested, would provide us with greater insights on where to suggest driver placement. 
 
 
 
